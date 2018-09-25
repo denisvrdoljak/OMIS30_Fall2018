@@ -10,4 +10,4 @@ Post an intro to your classmates as a response/comment on the "Hello and Welcome
 
 ## Getting Started with Python
 
-Answer the questions in the workbook posted [here](https://github.com/denisvrdoljak/OMIS30_Fall2018/blob/master/wk2/) (will be posted by midnight).
+Answer the questions in the workbook posted [here](https://github.com/denisvrdoljak/OMIS30_Fall2018/blob/master/wk2/OMIS30_wk2hw1.ipynb) (will be posted by midnight).
