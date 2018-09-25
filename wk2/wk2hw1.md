@@ -4,9 +4,8 @@
 
 ## Our new Wall/Chat Room
 
-Post an intro to your classmates as a response/comment on the "Hello and Welcome" post at:
+Check back later for this part. I'll need to get Camino set up
 
-[OMIS30 Google Group](https://groups.google.com/forum/#!forum/omis30_fall2018).
 
 ## Getting Started with Python
 
