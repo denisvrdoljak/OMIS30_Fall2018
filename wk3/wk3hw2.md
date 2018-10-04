@@ -1,4 +1,4 @@
-# OMIS 30: Week 3, HW 1
+# OMIS 30: Week 3, HW 2
 
 
 ## More loops!
