@@ -16,6 +16,6 @@ Write a program that takes a number as an input, computes the factorial of the n
 Write a program that accepts an input, and then calculate the number of letters and digits in the entered string.
 For example, this input:
 hello world! 123
-Then, the output should be:
+should return this output:
 LETTERS 10
 DIGITS 3
