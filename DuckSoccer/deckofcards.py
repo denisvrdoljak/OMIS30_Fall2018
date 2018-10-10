@@ -10,8 +10,8 @@ Created on Mon Oct  8 09:46:56 2018
 import random
 
 class Card:
-    possiblesuits = ('Spade', 'Heart', 'Club', 'Diamond')
-    suitsymbols = {text: symbol for text, symbol in zip(('Spade', 'Heart', 'Club', 'Diamond'), ['\u2660', '\u2665', '\u2666', '\u2663'])}
+    possiblesuits = ('Spade', 'Heart', 'Diamond', 'Club')
+    suitsymbols = {text: symbol for text, symbol in zip(('Spade', 'Heart', 'Diamond', 'Club'), ['\u2660', '\u2665', '\u2666', '\u2663'])}
     possiblecardvalues = [str(n) for n in range(2, 11)] + ['J', 'Q', 'K','A']
 
     def __init__(self,suit,cardvalue):
@@ -25,7 +25,6 @@ class Card:
 
     def __repr__(self):
         return '{}{}'.format(self.value, self.suitsymbol)
-
 
 class Deck:
     def __init__(self):
@@ -69,3 +68,4 @@ if __name__ == "__main__":
     while testdeck.cardsleftindeck() > 0:
         card = testdeck.dealcard()
         print(card,end=" ")
+
