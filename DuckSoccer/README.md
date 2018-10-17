@@ -69,7 +69,7 @@ Calling Deck() creates/returns an instance of the deckofcards.Deck object, which
 ### deckofcards.Deck.**deck**
 This attribute stores the Card objects in a list, representing the cards in the deck. This list is mutable, and is modified by all of the methods in this Class. Upon creating a new instance of the class, the Deck.deck attribute is loaded with a full "deck of cards" and shuffled.
 
-### deckofcards.Deck.**shuffle()**
+### deckofcards.Deck.**shuffledeck()**
 This method randomizes the order of the Card objects in the Deck.deck list. Functionally speaking, it shuffles the Cards in the Deck. It uses the random library. This method takes no arguments and has no return.
 
 ### deckofcards.Deck.**loadnewdeck()**
