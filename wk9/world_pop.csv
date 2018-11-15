@@ -1,0 +1,234 @@
+country,continent,population
+China[a],Asia,1409517397
+India,Asia,1339180127
+United States,Americas,324459463
+Indonesia,Asia,263991379
+Brazil,Americas,209288278
+Pakistan,Asia,197015955
+Nigeria,Africa,190886311
+Bangladesh,Asia,164669751
+Russia,Europe,143989754
+Mexico,Americas,129163276
+Japan,Asia,127484450
+Ethiopia,Africa,104957438
+Philippines,Asia,104918090
+Egypt,Africa,97553151
+Vietnam,Asia,95540800
+Germany,Europe,82114224
+Democratic Republic of the Congo,Africa,81339988
+Iran,Asia,81162788
+Turkey,Asia,80745020
+Thailand,Asia,69037513
+United Kingdom,Europe,66181585
+France[b],Europe,64979548
+Italy,Europe,59359900
+Tanzania[c],Africa,57310019
+South Africa,Africa,56717156
+Myanmar,Asia,53370609
+South Korea,Asia,50982212
+Colombia,Americas,49065615
+Kenya,Africa,49699862
+Spain[d],Europe,46354321
+Argentina,Americas,44271041
+Ukraine[e],Europe,44222947
+Uganda,Africa,42862958
+Algeria,Africa,41318142
+Sudan,Africa,40533330
+Iraq,Asia,38274618
+Poland,Europe,38170712
+Canada,Americas,36624199
+Morocco,Africa,35739580
+Afghanistan,Asia,35530081
+Saudi Arabia,Asia,32938213
+Peru,Americas,32165485
+Venezuela,Americas,31977065
+Uzbekistan,Asia,31910641
+Malaysia[f],Asia,31624264
+Angola,Africa,29784193
+Mozambique,Africa,29668834
+Nepal,Asia,29304998
+Ghana,Africa,28833629
+Yemen,Asia,28250420
+Madagascar,Africa,25570895
+North Korea,Asia,25490965
+Australia[g],Oceania,24450561
+Ivory Coast,Africa,24294750
+Cameroon,Africa,24053727
+Taiwan[h],Asia,23626456
+Niger,Africa,21477348
+Sri Lanka,Asia,20876917
+Romania,Europe,19679306
+Burkina Faso,Africa,19193382
+Malawi,Africa,18622104
+Mali,Africa,18541980
+Syria,Asia,18269868
+Kazakhstan,Asia,18204499
+Chile,Americas,18054726
+Zambia,Africa,17094130
+Netherlands,Europe,17035938
+Guatemala,Americas,16913503
+Ecuador,Americas,16624858
+Zimbabwe,Africa,16529904
+Cambodia,Asia,16005373
+Senegal,Africa,15850567
+Chad,Africa,14899994
+Somalia,Africa,14742523
+Guinea,Africa,12717176
+South Sudan,Africa,12575714
+Rwanda,Africa,12208407
+Tunisia,Africa,11532127
+Cuba,Americas,11484636
+Belgium,Europe,11429336
+Benin,Africa,11175692
+Greece,Europe,11159773
+Bolivia,Americas,11051600
+Haiti,Americas,10981229
+Burundi,Africa,10864245
+Dominican Republic,Americas,10766998
+Czech Republic,Europe,10618303
+Portugal,Europe,10329506
+Sweden,Europe,9910701
+Azerbaijan[i],Asia,9827589
+Hungary,Europe,9721559
+Jordan,Asia,9702353
+Belarus,Europe,9468338
+United Arab Emirates,Asia,9400145
+Honduras,Americas,9265067
+Tajikistan,Asia,8921343
+Serbia[j],Europe,8790574
+Austria,Europe,8735453
+Switzerland,Europe,8476005
+Israel,Asia,8321570
+Papua New Guinea,Oceania,8251162
+Togo,Africa,7797694
+Sierra Leone,Africa,7557212
+Hong Kong,Asia,7364883
+Bulgaria,Europe,7084571
+Laos,Asia,6858160
+Paraguay,Americas,6811297
+El Salvador,Americas,6377853
+Libya,Africa,6374616
+Nicaragua,Americas,6217581
+Lebanon,Asia,6082357
+Kyrgyzstan,Asia,6045117
+Turkmenistan,Asia,5758075
+Denmark,Europe,5733551
+Singapore,Asia,5708844
+Finland[k],Europe,5523231
+Slovakia,Europe,5447662
+Norway[l],Europe,5305383
+Congo,Africa,5260750
+Eritrea,Africa,5068831
+Palestine[m],Asia,4920724
+Costa Rica,Americas,4905769
+Ireland,Europe,4761657
+Liberia,Africa,4731906
+New Zealand,Oceania,4705818
+Central African Republic,Africa,4659080
+Oman,Asia,4636262
+Mauritania,Africa,4420184
+Croatia,Europe,4189353
+Kuwait,Asia,4136528
+Panama,Americas,4098587
+Moldova[n],Europe,4051212
+Georgia[o],Asia,3912061
+Puerto Rico,Americas,3663131
+Bosnia and Herzegovina,Europe,3507017
+Uruguay,Americas,3456750
+Mongolia,Asia,3075647
+Armenia,Asia,2930450
+Albania,Europe,2930187
+Jamaica,Americas,2890299
+Lithuania,Europe,2890297
+Qatar,Asia,2639211
+Namibia,Africa,2533794
+Botswana,Africa,2291661
+Lesotho,Africa,2233339
+The Gambia,Africa,2100568
+Republic of Macedonia,Europe,2083160
+Slovenia,Europe,2079976
+Gabon,Africa,2025137
+Latvia,Europe,1949670
+Guinea-Bissau,Africa,1861283
+Bahrain,Asia,1492584
+Trinidad and Tobago,Americas,1369125
+Eswatini (Swaziland),Africa,1367254
+Estonia,Europe,1309632
+East Timor,Asia,1296311
+Equatorial Guinea,Africa,1267689
+Mauritius[p],Africa,1265138
+Cyprus[q],Asia,1179551
+Djibouti,Africa,956985
+Fiji,Oceania,905502
+Réunion,Africa,876562
+Comoros,Africa,813912
+Bhutan,Asia,807610
+Guyana,Americas,777859
+Montenegro,Europe,628960
+Macau,Asia,622567
+Solomon Islands,Oceania,611343
+Luxembourg,Europe,583455
+Suriname,Americas,563402
+Western Sahara,Africa,552628
+Cape Verde,Africa,546388
+Guadeloupe[r],Americas,449568
+Maldives,Asia,436330
+Malta,Europe,430835
+Brunei,Asia,428697
+Bahamas,Americas,395361
+Martinique,Americas,384896
+Belize,Americas,374681
+Iceland,Europe,335025
+Barbados,Americas,285719
+French Polynesia,Oceania,283007
+French Guiana,Americas,282731
+New Caledonia,Oceania,276255
+Vanuatu,Oceania,276244
+Mayotte,Africa,253045
+Sao Tome and Principe,Africa,204327
+Samoa,Oceania,196440
+Saint Lucia,Americas,178844
+Guernsey and  Jersey,Europe,165314
+Guam,Oceania,164229
+Curaçao,Americas,160539
+Kiribati,Oceania,116398
+Saint Vincent and the Grenadines,Americas,109897
+Tonga,Oceania,108020
+Grenada,Americas,107825
+Federated States of Micronesia,Oceania,105544
+Aruba,Americas,105264
+United States Virgin Islands,Americas,104901
+Antigua and Barbuda,Americas,102012
+Seychelles,Africa,94737
+Isle of Man,Europe,84287
+Andorra,Europe,76965
+Dominica,Americas,73925
+Cayman Islands,Americas,61559
+Bermuda,Americas,61349
+Greenland,Americas,56480
+American Samoa,Oceania,55641
+Saint Kitts and Nevis,Americas,55345
+Northern Mariana Islands,Oceania,55144
+Marshall Islands,Oceania,53127
+Faroe Islands,Europe,49290
+Sint Maarten,Americas,40120
+Monaco,Europe,38695
+Liechtenstein,Europe,37922
+Turks and Caicos Islands,Americas,35446
+Gibraltar,Europe,34571
+San Marino,Europe,33400
+British Virgin Islands,Americas,31196
+Caribbean Netherlands[s],Americas,25398
+Palau,Oceania,21729
+Cook Islands,Oceania,17380
+Anguilla,Americas,14909
+Wallis and Futuna,Oceania,11773
+Nauru,Oceania,11359
+Tuvalu,Oceania,11192
+Saint Pierre and Miquelon,Americas,6320
+Montserrat,Americas,5177
+"Saint Helena, Ascension and Tristan da Cunha",Africa,4049
+Falkland Islands,Americas,2910
+Niue,Oceania,1618
+Tokelau,Oceania,1300
+Vatican City[t],Europe,792
